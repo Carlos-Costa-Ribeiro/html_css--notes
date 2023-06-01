@@ -13,7 +13,7 @@ body  {
 */
 p::first-letter {
     font-size: 50px;
-    font-weight: bold;
+     font-weight: bold;
 }
 p::first-line {
      background-color: aquamarine;
