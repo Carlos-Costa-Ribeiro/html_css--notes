@@ -12,7 +12,7 @@ body  {
     tag "text-align" centraliza o texto, tag "text-decoration tira efeito padrão do texto"
 */
 p::first-letter {
-        font-size: 50px;
+         font-size: 50px;
       font-weight: bold;
 }
 p::first-line {
